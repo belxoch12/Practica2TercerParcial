@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firtstFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/video"
+        android:title="Watch"/>
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/store"
+        android:title="Store"/>
+
+    <item
+        android:id="@+id/fourdFragment"
+        android:icon="@drawable/active"
+        android:title="Notification"/>
+
+    <item
+        android:id="@+id/fiveFragment"
+        android:icon="@drawable/baseline_menu_24"
+        android:title="Menú"/>
+
+
+
+
+</menu>
